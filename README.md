@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shuaib21803/Emotion-Detection)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shuaib21803/Emotion-Detection)
-![GitHub forks](https://img.shields.io/github/forks/Shuaib21803/Emotion-Detection)
 
 
 ## Table of Contents
